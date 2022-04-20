@@ -1,1 +1,2 @@
-# Vehicle-Detection
+# Vehicle Detection 
+This is a jupyter notebook that utilizes ArcGIS Pro machine learning libraries in order to train a deep learning model to detect and track vehicles.
